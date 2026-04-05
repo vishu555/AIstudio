@@ -1,0 +1,5 @@
+{
+  "name": "Screener Alpha Investing Strategy Analyzer",
+  "description": "Analyzes stocks from a specific Screener.in URL using Gemini AI to classify their market phase (Consolidation, Accumulation, or Explosive Growth).",
+  "requestFramePermissions": []
+}
